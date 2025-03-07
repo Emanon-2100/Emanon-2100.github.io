@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+"I am currently an undergraduate student majoring in Computer Science and Technology at the School of Computer Science, Peking University."
 
 #### Email  
 <code>XX@XX.XX</code>  
